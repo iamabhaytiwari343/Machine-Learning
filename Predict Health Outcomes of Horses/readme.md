@@ -1,0 +1,1 @@
+there are two none and None form null values in test and train
